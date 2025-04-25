@@ -36,3 +36,4 @@
 
 **Visualización del proyecto**
 
+Para ejecutar el proyecto debe presionar el botón ![image](https://github.com/user-attachments/assets/7e9d8db1-c7a6-4f2e-8443-2c92c927655f)
